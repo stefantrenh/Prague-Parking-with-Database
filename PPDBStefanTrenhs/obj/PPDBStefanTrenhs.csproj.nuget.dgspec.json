@@ -1,33 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj": {}
+    "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\BackendDB\\BackendDB.csproj": {
+    "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\BackendDB\\BackendDB.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\BackendDB\\BackendDB.csproj",
+        "projectUniqueName": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\BackendDB\\BackendDB.csproj",
         "projectName": "BackendDB",
-        "projectPath": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\BackendDB\\BackendDB.csproj"
+        "projectPath": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\BackendDB\\BackendDB.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj": {
+    "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj",
+        "projectUniqueName": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj",
         "projectName": "PPDBStefanTrenhs",
-        "projectPath": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj",
-        "packagesPath": "C:\\Users\\steff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\PPDBStefanTrenhs\\obj\\",
+        "projectPath": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\PPDBStefanTrenhs\\PPDBStefanTrenhs.csproj",
+        "packagesPath": "C:\\Users\\matti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\PPDBStefanTrenhs\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\steff\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matti\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,8 +38,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\BackendDB\\BackendDB.csproj": {
-                "projectPath": "C:\\Users\\steff\\source\\repos\\PPDBStefanTrenhs\\BackendDB\\BackendDB.csproj"
+              "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\BackendDB\\BackendDB.csproj": {
+                "projectPath": "C:\\Users\\matti\\Source\\Repos\\Prague-Parking-with-Database\\BackendDB\\BackendDB.csproj"
               }
             }
           }

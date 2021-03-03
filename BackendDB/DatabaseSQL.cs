@@ -769,7 +769,7 @@ namespace BackendDB
         {
             SqlConnection conn = new SqlConnection(
              //"Data Source=(localhost);Initial Catalog=NorthwindDB;Integrated Security=SSPI");
-             @"Server=LAPTOP-14R42PPR\SQLEXPRESS;Database=PPDBStefanTrenh;Integrated Security=SSPI;");
+             @"Server=LAPTOP-5TNCATQM\SQLEXPRESS;Database=PPDBStefanTrenh;Integrated Security=SSPI;");
             return conn;
         } // av ren lathet orkar jag inte skriva detta hela tiden därför finns han.
     }
