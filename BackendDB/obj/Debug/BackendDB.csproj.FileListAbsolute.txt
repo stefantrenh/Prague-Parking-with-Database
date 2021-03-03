@@ -1,0 +1,9 @@
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\bin\Debug\BackendDB.dll
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\bin\Debug\BackendDB.pdb
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\bin\Debug\System.Data.SqlClient.dll
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\bin\Debug\System.Data.SqlClient.xml
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.csprojAssemblyReference.cache
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.csproj.CoreCompileInputs.cache
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.csproj.CopyComplete
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.dll
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.pdb

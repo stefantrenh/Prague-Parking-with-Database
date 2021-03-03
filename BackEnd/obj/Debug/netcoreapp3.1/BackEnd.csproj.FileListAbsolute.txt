@@ -1,0 +1,4 @@
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csprojAssemblyReference.cache
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfoInputs.cache
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.AssemblyInfo.cs
+C:\Users\steff\source\repos\PPDBStefanTrenhs\BackEnd\obj\Debug\netcoreapp3.1\BackEnd.csproj.CoreCompileInputs.cache
