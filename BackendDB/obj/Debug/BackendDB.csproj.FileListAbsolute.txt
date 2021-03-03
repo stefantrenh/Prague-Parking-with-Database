@@ -7,3 +7,12 @@ C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.cspro
 C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.csproj.CopyComplete
 C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.dll
 C:\Users\steff\source\repos\PPDBStefanTrenhs\BackendDB\obj\Debug\BackendDB.pdb
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\bin\Debug\BackendDB.dll
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\bin\Debug\BackendDB.pdb
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\bin\Debug\System.Data.SqlClient.dll
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\bin\Debug\System.Data.SqlClient.xml
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\obj\Debug\BackendDB.csprojAssemblyReference.cache
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\obj\Debug\BackendDB.csproj.CoreCompileInputs.cache
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\obj\Debug\BackendDB.csproj.CopyComplete
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\obj\Debug\BackendDB.dll
+C:\Users\matti\Source\Repos\Prague-Parking-with-Database\BackendDB\obj\Debug\BackendDB.pdb
