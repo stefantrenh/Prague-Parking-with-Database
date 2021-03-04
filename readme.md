@@ -5,3 +5,7 @@
 - Merge
 - Branches
 - Commit 
+
+<hr>
+
+Use the PPDBStefanTrenh.sql in Microsoft SQL and change the filepath in SQLDatabase.cs to run the program.
